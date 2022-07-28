@@ -12,14 +12,19 @@
   height: 480px;
   width: 100%;
 }
+.custom-style{
+  height:300px;
+  width: 100%;
+}
 /* optional section  */
 .bg-col{
   background-color: #f4fafd;
 }
 
+
 @media only screen and (max-width:576px) {
   .custom-height{
-    height: 400px;
+    height: 400px; 
   }
   .small>h3{
     font-size: 17px;
